@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf233663-317e-43a4-8c65-e6d4547c94fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1ER EXAMEN/Examen2_SamuelGarcia/Examen2_SamuelGarcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1ER EXAMEN/Examen3_SamuelGarcia/Examen3_SamuelGarcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1ER EXAMEN/Examen_SamuelGarcia/Examen_SamuelGarcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAMEN/ProyectoPrubeagit/ProyectoPrubeagit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.10_Samuel_Garcia/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.10_Samuel_Garcia/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.10_Samuel_Garcia/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.10_Samuel_Garcia/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.10_Samuel_Garcia/2.10_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.10_Samuel_Garcia/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.11_Samuel_Garcia/2.11_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.12_Samuel_Garcia/2.12_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.14_Samuel_Garcia/2.14_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.15_Samuel_Garcia/2.15_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.16_Samuel_Garcia/2.16_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.17_Samuel_Garcia/2.17_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.18_Samuel_Garcia/2.18_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.19_Samuel_Garc/2.19_Samuel_Garc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.19_Samuel_Garci/2.19_Samuel_Garci.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.19_Samuel_Garcia/2.19_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1_Samuel_garcia/2.1_Samuel_garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.20_Samuel_Garcia/2.20_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.21_Samuel_Garcia/2.21_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.2_Samuel_Garcia/2.2_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.3_Samuel_Garcia/2.3_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.4_Samuel_Garcia/2.4_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.5_Samuel_Garcia/2.5_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.7_Samuel_Garcia/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.7_Samuel_Garcia/2.7_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.8_Samuel_Garcia/2.8_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.9_Samuel_Garcia/2.9_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_Examen_SamuelGarcia/2_Examen_SamuelGarcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.10_Samuel_Garcia/3.10_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.11_Samuel_Garcia/3.11_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.12_Samuel_Garcia/3.12_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.13_Samuel_Garcia/3.13_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.14_Samuel_Garcia/3.14_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.15_Samuel_Garcia/3.15_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.16_Samuel_Garcia/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.16_Samuel_Garcia/3.16_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.17_Samuel_Garcia/3.17_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.18_Samuel_Garcia/3.18_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.19_Samuel_Garcia/3.19_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1_Samuel_Garcia/3.1_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.20_Samuel_Garcia/3.20_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.21_Samuel_Garcia/3.21_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.22_Samuel_Garcia/3.22_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2_Samuel_Garcia/3.2_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.3_Samuel_Garcia/3.3_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.4_Samuel_Garcia/3.4_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.5_Samuel_Garcia/3.5_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.6_Samuel_Garcia/3.6_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.7_Samuel_Garcia/3.7_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.8_Samuel_Garcia/3.8_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.9_Samuel_Garcia/3.9_Samuel_Garcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_Examen_SamuelGarcia/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 26/Ejercicio 26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio25/Ejercicio25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio4examen/Ejercicio4examen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estudiando1/Estudiando1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_SamuelGarcia/Examen_SamuelGarcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intentoexamen4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intentoexamen4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intentoexamen4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intentoexamen4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intentoexamen4/Intentoexamen4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diagrama1_Samuel/diagrama1_Samuel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intentoexamen3/intentoexamen3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../estudio/prueba funciones/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2oYkeVVrsKmHa8fZaBCDY5SJ29i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/samuel/Escritorio/CURSO DAW/PROGRAMACIÓN/JAVA/2.1_Samuel_garcia",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/samuel/Escritorio/CURSO DAW/PROGRAMACIÓN/JAVA/3_Examen_SamuelGarcia/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="3_Examen_SamuelGarcia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf233663-317e-43a4-8c65-e6d4547c94fd" name="Changes" comment="" />
+      <created>1731053991199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731053991199</updated>
+      <workItem from="1731053992175" duration="2796000" />
+      <workItem from="1731059904870" duration="11000" />
+      <workItem from="1731059991797" duration="108000" />
+      <workItem from="1731179982140" duration="44000" />
+      <workItem from="1731407250536" duration="16000" />
+      <workItem from="1731407272677" duration="27000" />
+      <workItem from="1731407332362" duration="87000" />
+      <workItem from="1731657830733" duration="2529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
