@@ -2,15 +2,17 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("introduce numero");
+        System.out.print("introduce numero impar : ");
         int inum = scanner.nextInt();
-        int icentro=inum/2;
-        for(int i=-icentro ; i<=icentro ; i++){
-            for(int j=-icentro ; j<=icentro ; j++){
+        int inicio=inum/2;
+
+        for(int i=-inicio; i<=inicio; i++) {
+            for(int j=-inicio; j<=inicio; j++) {
                 System.out.print(inum-Math.abs(i)-Math.abs(j));
                 System.out.print(" ");
             }
             System.out.println(" ");
         }
+
     }
 }
