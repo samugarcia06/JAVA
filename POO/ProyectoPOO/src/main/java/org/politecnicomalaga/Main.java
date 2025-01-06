@@ -8,8 +8,8 @@ public class Main {
     private static Cliente cliente1;
 
     public static void main(String[] args) {
-         Cliente cliente1= new Cliente("Samuel", "Garcia" , "Ayala" , "688406502" , "sgaraya0606@gmail.com", "Avenida Constitucion", "06/06/2006" , "18" , "25607738K");
-
+        System.out.println("Introduce tus datos");
+        Cliente cliente1= new Cliente("Samuel", "f", "g" , "1","samu","ace" , "04", 18,"juandepito");
         MostrarDatos();
 
     }
@@ -25,13 +25,13 @@ public class Main {
         //informacion del cliente
         System.out.println("Información del cliente");
         System.out.println("DNI: " +cliente1.getsDni());
-        System.out.println("Nombre :" + cliente1.getsNombre);
-        System.out.println("Apellido1 : " + cliente1.getsApellido1);
-        System.out.println("Apellido2 :" + cliente1.getsApellido2);
-        System.out.println("Telefono :" + cliente1.getsTelefono);
-        System.out.println("Dirección : " + cliente1.getsDireccion);
-        System.out.println("Fecha Nacimiento : " + cliente1.getsFechaNacimiento);
-        System.out.println("Edad : " + cliente1.getiEdad);
+        System.out.println("Nombre :" + cliente1.getsNombre());
+        System.out.println("Apellido1 : " + cliente1.getsApellido1());
+        System.out.println("Apellido2 :" + cliente1.getsApellido2());
+        System.out.println("Telefono :" + cliente1.getsTelefono());
+        System.out.println("Dirección : " + cliente1.getsDireccion());
+        System.out.println("Fecha Nacimiento : " + cliente1.getsFechaNacimiento());
+        System.out.println("Edad : " + cliente1.getiEdad());
     }
-
+    
 }

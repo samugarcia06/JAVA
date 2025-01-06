@@ -13,8 +13,8 @@ public class Cliente {
     private String sDni;
 
     //metodo
-//constructor
-    public Cliente(String sDni, String sNombre, String sApellido1, String sApellido2, String sTelefono, String sEmail, String sDireccion, String sFechaNacimiento, int iEdad) {
+    //constructor
+    public Cliente(String sNombre, String sApellido1, String sApellido2, String sTelefono, String sEmail, String sDireccion, String sFechaNacimiento, int iEdad , String sDni) {
         this.sNombre = sNombre;
         this.sApellido1 = sApellido1;
         this.sApellido2 = sApellido2;
